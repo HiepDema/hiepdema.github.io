@@ -2,7 +2,7 @@
 
 ![Profile Picture](prof_pic.jpg)
 
-I am currently a third-year student at [Foreign Trade University](https://www.ftu.edu.vn/), majoring in International Economics. I have a strong passion for mathematics and artificial intelligence.
+I am currently a third-year student at [Foreign Trade University](https://www.ftu.edu.vn/), majoring in International Business Economics. I have a strong passion for mathematics and artificial intelligence.
 
 [Email](mailto:hiepdema26@gmail.com) / [Resume](RESUME.pdf) / [GitHub](https://github.com/HiepDema)
 
