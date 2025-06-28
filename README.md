@@ -8,16 +8,9 @@ I am currently a third-year student at [Foreign Trade University](https://www.ft
 
 ---
 
-## 🧠 Research
-
-I am driven by elegant solution methods in robot learning and control that target **high performance**, **safety guarantees**, **data efficiency**, and **robust generalization**—key milestones toward **embodied intelligence**.
-
-I am open to exploring theoretical and practical aspects of robotics, leveraging my background in:
-- Control theory
-- Differentiable optimization
-- Machine learning
+## Research 
+- [Forecasting Vietnam’s coffee export volume in the first half of 2024 using the AR model](https://drive.google.com/file/d/1ElwtO0pUUn3ega8FzGN3mI9MnwwaL_Vt/view?usp=sharing)
+- [Building an ARCH model for forecasting Vietnam’s GDP growth rate in the first two quarters of 2024](https://drive.google.com/file/d/15ZXsHNVJyY_5ULMkX5uQHSlboXwVRA8z/view?usp=sharing)
 
 ---
-
-> *“Stay curious, build boldly, and let the math guide your machines.”*
 
